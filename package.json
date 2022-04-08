@@ -1,0 +1,23 @@
+{
+  "name": "spotify-console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "private": true,
+  "scripts": {
+    "dev": "node program.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhonyfpb/spotify-console.git"
+  },
+  "author": "Rhony Pedraza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhonyfpb/spotify-console/issues"
+  },
+  "homepage": "https://github.com/rhonyfpb/spotify-console#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
